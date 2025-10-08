@@ -1,2 +1,1 @@
-# codealpha_tasks
-code alpha all projects
+During my internship at CodeAlpha, I successfully completed three cybersecurity-related projects — a Network Sniffer for packet analysis, a Phishing Awareness Presentation to promote security education, and a Network Intrusion Detection System (NIDS) prototype for identifying suspicious network activities. These projects strengthened my skills in network security, Python programming, and threat analysis, while enhancing my practical understanding of cybersecurity concepts.
